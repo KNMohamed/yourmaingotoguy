@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khalid Mohamed
 - 👀 I’m interested in Coding, Sports, Videogames, and Weight lifting 
-- 🌱 I’m currently learning AWS & Spring
+- 🌱 I’m currently learning Kubernetes Administration...
 - 📫 I can be reached @ Khalid.N.Mohamed@outlook.com
 
 <!---
